@@ -70,7 +70,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
-<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/359e6288-483c-4c9b-9931-e10673917619" />
+<img width="1362" height="712" alt="image" src="https://github.com/user-attachments/assets/359e6288-483c-4c9b-9931-e10673917619" />
 
 
 
@@ -82,7 +82,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
-<img width="1907" height="1005" alt="image" src="https://github.com/user-attachments/assets/728281b8-59c2-4802-a3e2-3128882317ba" />
+<img width="1362" height="712" alt="image" src="https://github.com/user-attachments/assets/728281b8-59c2-4802-a3e2-3128882317ba" />
 
 
 
@@ -97,7 +97,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/c60c3e3f-996e-46e6-9bd2-79fbc0d0f9aa" />
+<img width="1362" height="712" alt="image" src="https://github.com/user-attachments/assets/c60c3e3f-996e-46e6-9bd2-79fbc0d0f9aa" />
 
 
 
@@ -115,7 +115,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/ad1a6782-6b33-40c2-a04c-8140389340ae" />
+<img width="1362" height="712" alt="image" src="https://github.com/user-attachments/assets/ad1a6782-6b33-40c2-a04c-8140389340ae" />
 
 
 
@@ -138,7 +138,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/f44c6a3c-10bd-4f2a-882f-6f639c42263e" />
+<img width="1362" height="712" alt="image" src="https://github.com/user-attachments/assets/f44c6a3c-10bd-4f2a-882f-6f639c42263e" />
 
 
 
